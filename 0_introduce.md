@@ -10,8 +10,10 @@
 
 ## 영어
 Let me introduce my self.
-My name is Kwanghee Park. I am 37 years old and I work as a software engineer at a company called Samsung SDS.
-Currently, I'm working on a project for Koreanair, where we are developing a pessenger reservation and ticketing system.
+My name is Kwanghee Park. 
+I am 37 years old and I work as a software engineer at a company called Samsung SDS.
+Currently, I'm working on a project for Koreanair, 
+where we are developing a pessenger reservation and ticketing system.
 
 These days, my hobby is rowing. 
 Recently, my work hours have increased, 
@@ -19,8 +21,9 @@ so I don't have much time to exercise.
 Because of that, I bought a rowing machine and use it at home. 
 I started to rowing because many people said it is very efficient in a short amount of time.
 
-That's it
+That's my indroduction.
 
 ## Chatgpt 입력
 나는 자기소개를 할 거야.
 이때, 그만이라고 외칠때까지 계속해서 입력을 받은다음 발음과 문법 그리고 어색한 문장에 대해서 이야기해줘.
+계속 말씀해주세요도 하지마.
