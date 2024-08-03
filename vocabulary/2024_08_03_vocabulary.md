@@ -1,0 +1,35 @@
+# vocabulary
+- awful : 끔찍한
+- set Menu(X) --> Combo 
+- short and sweet: 짧고 간결하게
+- tea: 소문을 흘리다, 소문
+- Electronic Kettle : 주전자
+- pod : 냄비
+- cost a fortune
+- connector : 전기 연결선
+- domestic
+  - 기계 제품
+  - 국내의
+- panel
+  - 덮다, 덮은
+- laden with
+  - ~~에 탑재된
+- stale
+  - 냄새가 변질된
+- fix your coffee
+  - 커피를 내리다.
+- palate
+  - 미각
+- discerning palate
+  - 예민한 미각
+- skinny lattes
+  - 저지방 라떼
+- aroma
+  - 향
+- flavor
+  - 맛
+- nutty
+  - 견과류의 고소함
+- richness
+  - 구수한
+  - 커피에 많이 쓰임
