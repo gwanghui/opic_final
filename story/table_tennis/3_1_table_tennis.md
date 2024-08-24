@@ -5,9 +5,8 @@ There’s a government-managed gym in front of my house,
 and I often play table tennis there—about twice a week, 
 once during the weekdays and once on the weekend. 
 I first started playing table tennis 
-because I enjoyed it with my colleagues at work. 
-When I'm programming and a problem doesn’t get solved easily or when I’m overthinking, 
-I started playing to refresh my mind.
+because I enjoyed it with my Co-worker. 
+When I'm programming or overthinking problem doesn’t get solved easily I started playing to refresh my mind.
 
 ## 탁구의 규칙
 I'm going to explain the rules of table tennis
