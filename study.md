@@ -67,7 +67,7 @@
 - not bottom side
 - upper side
 
-#
+# 으앙
 - pick pocket
   - 소매치기
 - thief, snatcher
@@ -84,7 +84,65 @@
 
 # 금융
 - loan
+  - 대출
 - morgage
 - withdraw
 - deposit
-- 
+
+# 
+- can you eat available all kind of spice?
+- coriander
+- cilantro
+- which 
+- cilantro's taste is like to soap for me.
+- I can't handle it at all.
+- subtle(은은한) than before 2017.
+- attractive I can't handle at all.
+- bland (밍밍한), pungent(진득한, 진한), subtle(은은한), good after tasty(감칠맛)
+- sweetness
+- pungent
+  - 낫또 등
+- it's tasty friendly for me
+- before 2017 it's monster for me.
+
+# 
+- robust, solid, Tough
+- 사라지다
+- melt down, disappear
+- 마리네이드 fried fork 설로인.
+- buttery,oily(좋은 기름진), greasy(기름 쩐맛)
+- tangy, numb
+  - 얼얼한 맛
+- grease 기름기
+
+# 맛이 표현된 정도
+- hint of 스쳐지나가는
+- bit of 스쳐지나가는 보다 조금더
+- tiny amount of / Tiny tiny(티니 타이니) / Tiny tiny of(티니 타이니 오브)
+- little bit 아주 약간
+- little 조금
+- slight/slightly (약간)
+- it's () sweet.
+
+## 화나는 정도
+- mad, nervous
+- crazy,bother(귀찮은, 성가신)
+- angry
+- furious
+- rage
+
+## 지치는 정도
+- tired 
+  - 피곤
+- wearisome
+  - 육체적
+- exhaust
+  - 육체적+정신적
+
+## 색을 표현하는 정도
+
+## 더러운
+- swarthy
+  - 거무스르한
+- filthy
+  - 불결한
